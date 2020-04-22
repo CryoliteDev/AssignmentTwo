@@ -21,7 +21,7 @@ These steps are for use with command line workflow such as with a terminal.
 Running the program will prompt you with the following:
 
 ```bash
-Print Play[L]ist | | [P]lay | [R]ecent | [S]top
+Print Play[L]ist | [P]lay | [R]ecent | [S]top
 ```
 
 Selecting `L` will print a merged list of all the three playlists.
